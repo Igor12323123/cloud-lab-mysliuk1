@@ -1,0 +1,6 @@
+Year,Incident,Category,Impact_Score,Affected_Users_Thousands
+2015,Prykarpattyaoblenergo Attack,Energy Grid,9,230
+2017,NotPetya Malware,Ransomware/Wiper,10,500
+2018,Atlanta Municipal Attack,Government/City,7,150
+2018,Coincheck Hack,Cryptocurrency,8,260
+2025,Massive Credential Leak,Data Breach,10,16000000
